@@ -23,16 +23,16 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="hello_files/libs/clipboard/clipboard.min.js"></script>
-<script src="hello_files/libs/quarto-html/quarto.js"></script>
-<script src="hello_files/libs/quarto-html/popper.min.js"></script>
-<script src="hello_files/libs/quarto-html/tippy.umd.min.js"></script>
-<script src="hello_files/libs/quarto-html/anchor.min.js"></script>
-<link href="hello_files/libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="hello_files/libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="hello_files/libs/bootstrap/bootstrap.min.js"></script>
-<link href="hello_files/libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="hello_files/libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="index_files/libs/clipboard/clipboard.min.js"></script>
+<script src="index_files/libs/quarto-html/quarto.js"></script>
+<script src="index_files/libs/quarto-html/popper.min.js"></script>
+<script src="index_files/libs/quarto-html/tippy.umd.min.js"></script>
+<script src="index_files/libs/quarto-html/anchor.min.js"></script>
+<link href="index_files/libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="index_files/libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="index_files/libs/bootstrap/bootstrap.min.js"></script>
+<link href="index_files/libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="index_files/libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 
 
 </head>
@@ -71,7 +71,7 @@ ul.task-list li input[type="checkbox"] {
 <p>The plot below shows the relationship between flipper and bill lengths of these penguins.</p>
 <div class="cell">
 <div class="cell-output-display">
-<p><img src="hello_files/figure-html/plot-penguins-1.png" class="img-fluid" width="672"></p>
+<p><img src="index_files/figure-html/plot-penguins-1.png" class="img-fluid" width="672"></p>
 </div>
 </div>
 </section>
